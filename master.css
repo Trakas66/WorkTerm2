@@ -23,6 +23,7 @@
 @media (max-width: 768px) {
   .affix{
     position: relative;
+    width: 100%;
   }
 }
 
