@@ -2,6 +2,10 @@
   background-color: #00c109;
 }
 
+.white{
+  background-color: white;
+}
+
 .card{
   margin-bottom: 15px;
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.08);
@@ -46,4 +50,16 @@ a{
 
 a:hover{
   color: #00c109;
+}
+
+.offset-scroll{
+  scroll-margin-top: 75px;
+}
+
+.top-left-img{
+  max-height: 50px;
+}
+
+.width-50{
+  width: 50px;
 }
