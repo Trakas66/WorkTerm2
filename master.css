@@ -22,7 +22,7 @@
 
 @media (max-width: 768px) {
   .affix{
-    position: relative;
+    position: inherit;
     width: 100%;
   }
 }
